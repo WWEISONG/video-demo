@@ -78,23 +78,3 @@
   </table>
 </div>
 
-
-
-## Geo-Trap (T)
-
-
-
-<div style="text-align: center;">
-  <table style="margin: auto;">
-    <tr>
-      <th>Reconstructed Adversarial Videos</th>
-    </tr>
-    <tr>
-      <td>
-        <img src="Reconstructed_Adversarial_Videos/Geo-Trap_T/v_ApplyEyeMakeup.gif" alt="ApplyEyeMakeup" width="125" />
-        <img src="Reconstructed_Adversarial_Videos/Geo-Trap_T/v_Haircut.gif" alt="Haircut" width="125" />
-        <img src="Reconstructed_Adversarial_Videos/Geo-Trap_T/v_HandStandWalking.gif" alt="HandstandWalking" width="125" />
-      </td>
-    </tr>
-  </table>
-</div>
