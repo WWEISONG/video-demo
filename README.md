@@ -87,7 +87,6 @@
 <div style="text-align: center;">
   <table style="margin: auto;">
     <tr>
-      <th>Reconstructed Original Videos</th>
       <th>Reconstructed Adversarial Videos</th>
     </tr>
     <tr>
